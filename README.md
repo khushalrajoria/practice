@@ -4,17 +4,11 @@ This repository contains my practice work for implementing various CSS and JavaS
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-
-## Demo
-
-Check out the live demo of the project [here](#).
 
 ## Features
 
@@ -159,7 +153,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
