@@ -1,1 +1,1 @@
-pratice for css and js animation and transitions
+practice for css and js animation and transitions
