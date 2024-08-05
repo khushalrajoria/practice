@@ -163,7 +163,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or suggestions, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize this README as per your preferences and project specifics.
